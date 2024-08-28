@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif
 )](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm jayasankari</h1>
+<h1 align="center">Hi 👋, I'm karishma</h1>
 <h3 align="center">A passionate Reactjs frontend developer from India and</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
@@ -13,13 +13,13 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **jayasankari769@gmail.com**
+- 📫 How to reach me **karishmamoorthi@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jayasankari-raajkomahan-765a83239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayasankari-raajkomahan-765a83239" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karishma-moorthi-75145724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayasankari-raajkomahan-765a83239" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shankraaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shankraaj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jayasanka5pqz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jayasanka5pqz" height="30" width="40" /></a>
 </p>

@@ -1,5 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif
-)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm karishma</h1>
 <h3 align="center">A passionate Reactjs frontend developer from India and</h3>
 
